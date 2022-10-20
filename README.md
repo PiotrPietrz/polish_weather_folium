@@ -9,4 +9,4 @@ The dataset with lat & lon comes from below website:
 - https://simplemaps.com/data/pl-cities
 
 The weather data will be taken from NASA database:
-- https://power.larc.nasa.gov/data-access-viewer/# polish_weather_folium
+- https://power.larc.nasa.gov/data-access-viewer/
